@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um apaixonado desenvolvedor .NET na criação de soluções de software robustas e escaláveis. Tenho um profundo conhecimento das tecnologias .NET e estou constantemente buscando aprimorar minhas habilidades para enfrentar os desafios mais complexos do mundo do desenvolvimento de software.
+Sou um apaixonado desenvolvedor .NET na criação de soluções de software robustas e escaláveis. Tenho conhecimento das tecnologias .NET e estou constantemente buscando aprimorar minhas habilidades para enfrentar os desafios mais complexos do mundo do desenvolvimento de software.
 
 ## Experiência Profissional
 
